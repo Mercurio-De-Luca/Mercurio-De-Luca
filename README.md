@@ -3,11 +3,13 @@
 
 Ciao, mi chiamo Mercurio
 
-Vivendo in una piccola località, ho avuto limitate opportunità e scelta in termini di lavoro ideale. Nonostante ciò, ho acquisito una serie di esperienze lavorative che, sfortunatamente, non hanno mai soddisfatto appieno le mie aspettative professionali e personali. Tuttavia, non mi sono mai arreso e ho continuato a cercare nuove opportunità per realizzare il mio potenziale.
+Sono un Full-Stack con forte motivazione ad apprendere e crescere professionalmente nel mio ruolo. 
+Ho conseguito la certificazione di Full-Stack developer con il corso full-time di EPICODE.
+Grazie al corso frequentato in questi mesi ho acquisito le capacità per sviluppare siti web tramite diversi linguaggi. Ovviamente il mio obiettivo non è quello di fermarmi a questo, ma ampliare le mie conoscenza.
+Ho 23 anni e sono alla ricerca di un’opportunità lavorativa che mi faccia crescere e allo stesso tempo mi dia soddisfazioni.
+So inserirmi rapidamente in nuovi gruppi di lavoro grazie alle mie buone capacità comunicative, sono predisposto a lavorare in team e soprattutto sono molto motivato.
 
-Così, mi sono avvicinato al vasto mondo della programmazione attraverso l'esplorazione del web. Man mano che mi immergevo sempre di più in questo campo, la passione cresceva dentro di me e mi sembrava di aver finalmente trovato il mio ambito ideale.
-
-Pertanto, ho deciso di intraprendere un percorso di formazione come Full-Stack Developer presso EPICODE school, un corso che ha avuto una durata di 6 mesi, ad oggi posso vantare competenze quali:
+Ad oggi posso vantare competenze quali:
 
 HTML5
 CSS
